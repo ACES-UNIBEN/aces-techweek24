@@ -1,3 +1,3 @@
-#FOLLOW THIS FORMAT
+Follow this format...
 | Name | GitHub Profile | Challenge |
 | --- | --- | --- |
