@@ -39,8 +39,8 @@ Here are some best practices that you should follow when completing the challeng
 7. Use a linter like [ESLint] or [JSHint] to check your code for errors and bugs.
 8. Test your code and fix any issues before submitting your pull request.
 
-License
+## License
 This repo is licensed under the [MIT License](LICENSE).
 
-Code of conduct
+## Code of conduct
 This repo follows the Contributor Covenant Code of Conduct. By participating in this project, you agree to abide by its terms.
