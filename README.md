@@ -1,20 +1,20 @@
 # ACES TECH WEEK HACKATHON 2023/2024 SESSION 🚀🚀
 
-This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebration of tech innovation. It contains a collection of frontend challenges from [Frontend Mentor](https://www.frontendmentor.io/), a platform that provides real-world HTML, CSS and JavaScript challenges with professional designs.
+This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebration of tech innovation. It contains a frontend challenge from [Frontend Mentor](https://www.frontendmentor.io/), a platform that provides real-world HTML, CSS and JavaScript challenges with professional designs. This particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) tests the developer's knowledge of HTML, CSS $ JavaScript.
 
 HOW TO PARTICIPATE
-
-To participate in the Hackathon, you need to register on the google form provided with the invite flyer.
+To participate in the Hackathon, you need to register on the google form provided with the invite flyer. You can do this after completing the challenge.
 
 TO **CONTRIBUTE** to this repo, you need to follow these steps:
 
 1. Fork this repo and clone it to your local machine.
-2. Choose a challenge from the Frontend Mentors and create a new branch for it. The branch name should be in the format **challenge-name-your-name**.
+2. Start this particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) we have selected, and create a new branch for it. The branch name should be in the format **challenge-name-your-name**.
 3. Create a folder with the name in this format **challenge-name-your-name**, this is where your task will be done.
 4. Complete the challenge using HTML, CSS and JavaScript. You can use any framework or library you like, but make sure to follow the code style and the best practices for this repo.
-5. Add your name and GitHub profile link to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
-6. Push your changes to your fork and create a pull request to the main branch of this repo. Make sure to add a descriptive title and a screenshot of your solution to the pull request.
-7. Wait for a review from the maintainer or other contributors. If your pull request is approved, it will be merged to the main branch. If your pull request needs some changes, you will get feedback on how to improve it.
+5. Remember, you have 4 DAYS to complete this challenge. It ends on **Thursdy 29th February, 2024**, at **11:59pm**.
+6. Add your name and GitHub profile link to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
+7. Push your changes to your fork and create a pull request to the main branch of this repo. Make sure to add a descriptive title and a screenshot of your solution to the pull request.
+8. Wait for a review from the maintainer or other contributors. If your pull request is approved, it will be merged to the main branch. If your pull request needs some changes, you will get feedback on how to improve it.
 
 For any questions, contact me directly.
 
