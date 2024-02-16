@@ -19,7 +19,7 @@ To contribute to this repo, you need to follow these steps (*READ THEM ALL, BUT 
 8. Push your changes to your fork and create a pull request to the main branch of this repo. Make sure to add a descriptive title and a screenshot of your solution to the pull request.
 9. Wait for a review from the maintainer or other contributors. If your pull request is approved, it will be merged to the main branch. If your pull request needs some changes, you will get feedback on how to improve it.
 
-For any questions, contact me directly.
+For any questions, contact any member of the executives directly.
 
 ## Challenges
 Again, you are required to complete this particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) we have selected. The branch name should be in the format **challenge-name-your-name**. Each challenge has a zip folder you can download from that contains the starter files and the design files. You can also find a README file for each challenge that describes the requirements and the expected outcome.
