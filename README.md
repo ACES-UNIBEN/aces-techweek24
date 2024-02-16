@@ -1,4 +1,4 @@
-# ACES TECH WEEK HACKATHON 2023/2024 SESSION 🚀🚀
+# ACES TECH WEEK HACKATHON 🚀🚀 (2023/2024 SESSION)
 
 This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebration of tech innovation. It contains a frontend challenge from [Frontend Mentor](https://www.frontendmentor.io/), a platform that provides real-world HTML, CSS and JavaScript challenges with professional designs. This particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) tests the developer's knowledge of HTML, CSS $ JavaScript.
 
