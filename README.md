@@ -13,7 +13,7 @@ To contribute to this repo, you need to follow these steps:
 2. Choose a challenge from the Frontend Mentors and create a new branch for it. The branch name should be in the format **challenge-name-your-name**.
 3. Create a folder with the name in this format **challenge-name-your-name**, this is where your task will be done.
 4. Complete the challenge using HTML, CSS and JavaScript. You can use any framework or library you like, but make sure to follow the code style and the best practices for this repo.
-5. Add your name and GitHub profile link to the [CONTRIBUTORS.md](contributors.md) file.
+5. Add your name and GitHub profile link to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
 6. Push your changes to your fork and create a pull request to the main branch of this repo. Make sure to add a descriptive title and a screenshot of your solution to the pull request.
 7. Wait for a review from the maintainer or other contributors. If your pull request is approved, it will be merged to the main branch. If your pull request needs some changes, you will get feedback on how to improve it.
 
