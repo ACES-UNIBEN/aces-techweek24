@@ -2,10 +2,11 @@
 
 This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebration of tech innovation. It contains a collection of frontend challenges from [Frontend Mentor](https://www.frontendmentor.io/), a platform that provides real-world HTML, CSS and JavaScript challenges with professional designs.
 
-How to participate
+HOW TO PARTICIPATE
+
 To participate in the Hackathon, you need to register on the google form provided with the invite flyer.
 
-To **contribute** to this repo, you need to follow these steps:
+TO **CONTRIBUTE** to this repo, you need to follow these steps:
 
 1. Fork this repo and clone it to your local machine.
 2. Choose a challenge from the Frontend Mentors and create a new branch for it. The branch name should be in the format **challenge-name-your-name**.
