@@ -2,10 +2,12 @@
 
 This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebration of tech innovation. It contains a frontend challenge from [Frontend Mentor](https://www.frontendmentor.io/), a platform that provides real-world HTML, CSS and JavaScript challenges with professional designs. This particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) tests the developer's knowledge of HTML, CSS $ JavaScript.
 
-HOW TO PARTICIPATE
+## HOW TO PARTICIPATE
 To participate in the Hackathon, you need to register on the google form provided with the invite flyer. You can do this after completing the challenge.
 
-TO **CONTRIBUTE** to this repo, you need to follow these steps (read them all, but take CAREFUL NOTE of 2, 5, 6 & 7):
+## CONTRIBUTE
+
+To contribute to this repo, you need to follow these steps (*READ THEM ALL, BUT TAKE CAREFUL NOTE OF 2, 5, 6 & 7*):
 
 1. Fork this repo and clone it to your local machine.
 2. Start this particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) we have selected, and create a new branch for it. The branch name should be in the format **challenge-name-your-name**.
@@ -19,7 +21,7 @@ TO **CONTRIBUTE** to this repo, you need to follow these steps (read them all, b
 
 For any questions, contact me directly.
 
-Challenges
+## Challenges
 Again, you are required to complete this particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) we have selected. The branch name should be in the format **challenge-name-your-name**. Each challenge has a zip folder you can download from that contains the starter files and the design files. You can also find a README file for each challenge that describes the requirements and the expected outcome.
 
 Code style
