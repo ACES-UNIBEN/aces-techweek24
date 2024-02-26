@@ -36,7 +36,7 @@ Here are some best practices that you should follow when completing the challeng
 4. Use comments and meaningful variable names to make your code easy to read and understand.
 5. Use Git and GitHub to manage your code and track your progress.
 6. Write clean and modular code and avoid code duplication.
-7. Use a linter like [ESLint] or [JSHint] to check your code for errors and bugs.
+7. Use a linter like **ESLint** or **JSHint** to check your code for errors and bugs.
 8. Test your code and fix any issues before submitting your pull request.
 
 ## License
