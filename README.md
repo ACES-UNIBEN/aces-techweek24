@@ -1,6 +1,8 @@
 # ACES TECH WEEK HACKATHON 🚀🚀 (2022/2023 SESSION)
 
-This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebration of tech innovation. It contains a frontend challenge from [Frontend Mentor](https://www.frontendmentor.io/), a platform that provides real-world HTML, CSS and JavaScript challenges with professional designs. This particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) tests the developer's knowledge of HTML, CSS & JavaScript. Note that only projects built during the period of the hackathon are valid for entry.
+This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebration of tech innovation. It contains a frontend challenge from [Frontend Mentor](https://www.frontendmentor.io/), a platform that provides real-world HTML, CSS and JavaScript challenges with professional designs. This particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) is a **Tip Calculator App** that tests the developer's knowledge of HTML, CSS & JavaScript. It is a JUNIOR category challenge on Frontend Mentor.
+
+Get as close to the finished design as possible! Note that only projects built during the period of the hackathon are valid for entry.
 
 ## HOW TO PARTICIPATE
 To participate in the Hackathon, you need to register on the google form provided with the invite flyer. You can also do this after completing the challenge, but by all means, you should register.
@@ -10,7 +12,7 @@ To participate in the Hackathon, you need to register on the google form provide
 To contribute to this repo, you need to follow these steps (*READ THEM ALL, BUT TAKE CAREFUL NOTE OF 2, 5, 6 & 7*):
 
 1. Fork this repo and clone it to your local machine.
-2. Start this particular [challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5) we have selected, and create a new branch for it. The branch name should be in the format **challenge-name-your-name**.
+2. Start this particular [challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29) we have selected, and create a new branch for it. The branch name should be in the format **challenge-name-your-name**.
 3. Create a folder with the name in this format **challenge-name-your-name**, this is where your task will be done.
 4. Complete the challenge using HTML, CSS and JavaScript. You can use any framework or library you like, but make sure to follow the code style and the best practices for this repo.
 5. You are to replace the header "MAKE REMOTE WORK", as shown in the challenge, with the words "ACES UNIBEN". You may populate the other entries with Lorem Ipsum.
