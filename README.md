@@ -43,4 +43,4 @@ Here are some best practices that you should follow when completing the challeng
 This repo is licensed under the [MIT License](LICENSE).
 
 ## Code of conduct
-This repo follows the Contributor Covenant Code of Conduct. By participating in this project, you agree to abide by its terms.
+This repo follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
