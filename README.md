@@ -5,7 +5,7 @@ This repo is created for ACES TECH WEEK 2023/2024 SESSION, a week-long celebrati
 Get as close to the finished design as possible! Note that only projects built during the period of the hackathon are valid for entry.
 
 ## HOW TO PARTICIPATE
-To participate in the Hackathon, you need to register on the google form provided with the invite flyer. You can also do this after completing the challenge, but by all means, you should register.
+To participate in the Hackathon, you need to register on the google form [here](https://forms.gle/mkjeNfjq7FTeS58J8). You can also do this after completing the challenge, but by all means, you should register.
 
 ## CONTRIBUTE
 
