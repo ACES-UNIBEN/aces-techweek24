@@ -1,0 +1,358 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Global styles */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Cousine", monospace;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #c5e4e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* Input focus styling */
+input:focus {
+    outline: 1px solid rgb(9, 163, 124);
+}
+
+/* General section styling */
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 4rem;
+    width: 100%; /* Ensures section fills full width on smaller screens */
+}
+
+/* Split element styling */
+.split {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #688b8d;
+    margin-top: 1rem;
+}
+
+/* White section styling */
+.white {
+    font: smaller;
+    background-color: white;
+    border-radius: 10px;
+    padding: 0.5rem;
+    gap: 0rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 600px; /* Set a maximum width for responsiveness */
+    background-color: #f0f9ff; 
+    /* Lighter background for better contrast */
+}
+
+/* Calculator and result boxes styling */
+.calc, .res {
+    flex: 1;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.calc {
+    background-color: white;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr); /* Define rows */
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.res {
+    background-color: #00474b; /* Dark blue background */
+}
+
+/* Top and bottom bars styling */
+.top-botttom {
+    background-color: #00474b;
+    height: 100px;
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+}
+    
+
+/* Remove default spinner arrows from number inputs */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Form styling */
+form {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    width: 100%; 
+    font-family: "Cousine", monospace;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+/* Bill input styling */
+.bill-input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(208, 242, 250); /* Light blue background */
+    border: none;
+    text-align: right; /* Text aligns right */
+    color: #444; /* Text color */
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+/* Prepend dollar sign to bill input */
+
+tip-buttons {
+    display: flex;
+    flex-wrap: wrap; /* Wrap buttons onto multiple lines if needed */
+    gap: 8px; /* Maintain spacing between buttons */
+    margin: 0 auto; /* Center horizontally */
+    padding: 10px;
+    width: 100%; /* Ensure buttons fill available space */
+  }
+   .tip-buttons button:not(.custom-btn) {
+    background-color: #00474b;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    overflow: hidden;
+   
+    width: calc(33.33% - 16px); 
+    padding: 4px;
+    margin-top: 4px;
+}
+button:is(.custom-btn){
+    background-color: #d6fdff;
+    color: #00474b;
+  
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    
+    overflow: hidden;
+   
+    width: calc(33.33% - 16px); 
+    padding: 4px;
+    margin-top: 4px;
+}
+.custom-tip-form{
+    
+    width: calc(33.33% - 16px); 
+    padding: 4px;
+    margin-top: 4px;
+    border: 1px solid #00474b;
+}
+
+.custom-input-field{
+  text-align: right;
+  border: none;
+  width: 100%;
+
+}
+
+.custom-input-field:focus{
+  outline: none;
+}
+  
+.active {
+    background-color: aqua;
+    color: #00474b;
+  }
+  
+  .tip-buttons button:hover {
+    background-color: aquamarine;
+    color: #00474b;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 300px; /* Adjust height as needed */
+   
+  }
+  
+  .top-section {
+    flex: 1; /* Both top sections share the remaining space equally */
+    padding: 10px;
+   
+  }
+  
+  .reset-button {
+    flex: 0 0 auto; /* Reset button doesn't expand and takes remaining space */
+    padding: 10px;
+    text-align: center; 
+
+  }
+  
+  .tip_per_person{
+    
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  .total_per_person{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+  }
+
+  .textt{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .main{
+    font: bold;
+    color: white;
+    font-size: 12px;
+
+  }
+
+  .sub{
+    color: gray;
+    font-size: 8px;
+  }
+
+  .result{
+    color: aqua;
+    font-size: 30px;
+  }
+.reset:hover{
+    background-color: #d6fdff;
+    color: #00474b;
+    
+}
+
+.reset{
+  background-color: grey;
+  color: rgb(20, 20, 20);
+  border: none;
+  width: 80%;
+  height: 30px;
+
+}
+#custom-form {
+    display: flex; 
+    width: 30%;
+}
+
+.error{
+    color: red;
+}
+.error-border {
+    border: 2px solid red; 
+
+  }
+
+.input-container {
+    position: relative; /* Allows absolute positioning of the icon within */
+    display: flex;     /* Aligns the input and icon horizontally */
+    align-items: center; /* Centers the input and icon vertically */
+    
+  }
+  
+  .input-container input {
+    padding-left: 35px; /* Add padding to the left side of the input */
+  }
+  
+  .input-container i {
+    position: absolute;
+    left: 15px; /* Position the icon on the left side */
+    top: 35%;
+    transform: translateY(-35%);
+  }
+
+  #footer {
+    background-color: #212121;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+
+.footer-logo img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+
+
+.copyright {
+    background-color: #181818;
+    padding: 10px 0;
+    font-size: 12px;
+}
+  
+
+
+ 
+  /* Media queries for large screens */
+@media only screen and (min-width: 960px) {
+
+  .split{
+    margin-top: 0;
+  }
+    .white {
+        font: larger;
+      display: flex; 
+      flex-direction: row;
+      overflow: hidden;
+      width: 80vw;
+    }
+    section{
+      width: 60%;
+    }
+    body{
+      width: 80%;
+    }
+  
+    .calc,
+    .res {
+      flex: 0 0% 30%; /* Set specific width for each container */
+      margin: 0 .4rem; /* Add margin between containers */
+    }
+  }
+  
