@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.flaticon.com/flaticon.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" href="./logo.png">
+    <title>OBUH-DANIEL: ACES HACKATH0N</title>
+</head>
+<body>
+    
+
+    <section class="top">
+        <div class="split">
+            <span>
+                S P L I
+            </span>
+            <span>
+                T T E R
+            </span>
+
+        </div>
+        <div class="white">
+
+            <div class="calc">
+                <div class="top-bottom">
+                    <form id="bill-form">
+                        <label for="bill-amount">Bill</label>
+                        <div class="input-container">
+                        <input type="number" step="0.01" id="bill-amount" placeholder="0.00" name="bill-amount" required class="bill-input">
+                        <i class="fas fa-dollar-sign"></i> 
+                        </div>
+                    </form>
+
+                </div>
+
+
+                <div class="middle">
+
+                    <h4 class="tip">
+                        Select tip %
+                    </h4>
+                    <div class="tip-buttons">
+                        <button data-tip-value="5">5%</button>
+                        <button data-tip-value="10">10%</button>
+                        <button data-tip-value="15">15%</button>
+                        <button data-tip-value="25">25%</button>
+                        <button data-tip-value="50">50%</button>
+                        <button class="custom-btn" id="custom-btn" >Custom</button>
+                        <form id="custom-tip-form" class="custom-tip-form" style="display: none;" >
+                            <input class="custom-input-field" type="number" name="" id="" placeholder="Custom ">
+                        </form>
+                    
+                                
+                        
+                        
+                      </div>
+
+
+                    
+                </div>
+                <div class="top-bottom">
+                    <form id="spliiters-form">
+                        <label for="bill-amount">Number of People</label>
+                        <div class="input-container">
+                            <input type="number" id="bill-splitters" placeholder="0" name="bill-amount" required class="bill-input">
+                            <i class="fa-solid fa-user" style="color: #688b8d;"></i>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+
+            <div class="res">
+                <div class="container">
+                   
+                    <div class="top-section">
+                        <div class="tip_per_person">
+
+                            <div class="textt">
+                                <span class="main">
+                                    Tip amount
+                                </span>
+                                <span class="sub">
+                                    /person
+                                </span>
+
+                            </div>
+                            <div>
+
+                                <span class="result" id="t-p-p">
+                                    $0.00
+                                </span>
+
+                            </div>
+
+                        </div>
+                        <div class="total_per_person">
+
+                            <div class="textt">
+                                <span class="main">
+                                    Total
+                                </span>
+                                <span class="sub">
+                                    /person
+                                </span>
+
+                            </div>
+                            <div>
+
+                                <span class="result" id="b-p-p">
+                                    $0.00
+                                </span>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="reset-button">
+                      <button class="reset"  id="resetButton" onclick="resetForm()">Reset</button>
+                      <script>
+                       
+                      </script>
+                    </div>
+                  </div>
+                  
+            </div>
+
+
+
+        </div>
+        <footer id="footer">
+            <div class="footer-container">
+                <div class="footer-logo">
+                    <img src="./logo.png" alt="ACES UNIBEN Logo">  <span>ACES UNIBEN</span>
+                </div>
+    
+            <div class="copyright">
+                <p>&copy; 2024 ACES UNIBEN. All Rights Reserved.</p>
+            </div>
+        </footer>
+
+            </h3>
+        </div>
+    </section>
+
+   
+
+    
+
+
+
+    <script src="script.js"></script>
+    <script src="reset_script.js"></script>
+    <script src="toggle_script.js"></script>
+
+</body>
+</html>
